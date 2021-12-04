@@ -1,7 +1,7 @@
 # Regex_final_project
 
-# Stock Market Prediction
-## Team-13 Members:
+## Stock Market Prediction
+### Team-13 Members:
 1. Arpita Maharatha
 2. Suraj Kumar Roy
 3. Chetan Shukla
