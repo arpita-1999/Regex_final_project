@@ -1,6 +1,8 @@
 # Regex_final_project
 
 ## Stock Market Prediction
+### Project Mentor:
+Mohit Mathur
 ### Team-13 Members:
 1. Arpita Maharatha
 2. Suraj Kumar Roy
